@@ -1,0 +1,129 @@
+{
+    "bodybuildingWorkoutPlan": [
+        {
+            "day": "Day1",
+            "workoutType": "Chest, Triceps, Abs",
+            "workout1": "Warmup/Mobility, 10 minutes",
+            "workout2": "Bench Press, 4 sets of 10",
+            "workout3": "Incline Bench Press, 3 sets of 10",
+            "workout4": "Dumbbell Chest Fly, 3 sets of 15",
+            "workout5": "Close-Grip Bench Press, 4 sets of 10",
+            "workout6": "Skullcrushers, 3 sets of 10",
+            "workout7": "Tricep Extensions, 3 sets of 10",
+            "workout8": "Leg Raises, 3 sets of 15",
+            "workout9": "Weighted Crunches, 3 sets of 15"
+        },
+        {
+            "day": "Day2",
+            "workoutType": "Back, Biceps, Calves",
+            "workout1": "Warmup/Mobility, 10 minutes",
+            "workout2": "Barbell Bent Over Row, 4 sets of 10",
+            "workout3": "Dumbbell Rows, 3 sets of 10",
+            "workout4": "Lat Pull Downs, 3 sets of 15",
+            "workout5": "Cable Rows, 4 sets of 10",
+            "workout6": "EZ-bar Curls, 3 sets of 10",
+            "workout7": "Hammer Curls, 3 sets of 10",
+            "workout8": "Preacher Curls, 3 sets of 15",
+            "workout9": "Standing Calf Raises, 3 sets of 15",
+            "workout10": "Seated Calf Raises, 3 sets of 15"
+        },
+        {
+            "day": "Day3",
+            "workoutType": "Quads, Hamstrings, Calves",
+            "workout1": "Warmup/Mobility, 10 minutes",
+            "workout2": "Back Squat, 4 sets of 10",
+            "workout3": "Front Squats, 4 sets of 10",
+            "workout4": "Leg Press, 3 sets of 15",
+            "workout5": "Leg Extensions, 4 sets of 10",
+            "workout6": "Leg Curls, 3 sets of 10",
+            "workout7": "Barbell Lunges, 3 sets of 10",
+            "workout8": "Russian Twists, 3 sets of 15",
+            "workout9": "Weighted Crunches, 3 sets of 15"
+        },
+        {
+            "day": "Day4",
+            "workoutType": "Shoulders, Traps, Abs",
+            "workout1": "Warmup/Mobility, 10 minutes",
+            "workout2": "Barbell Overhead Shoulder Presses, 4 sets of 10",
+            "workout3": "One-arm Cable Lateral Raises, 3 sets of 10",
+            "workout4": "Barbell Shrugs, 3 sets of 15",
+            "workout5": "Front Raises, 4 sets of 10",
+            "workout6": "Reverse Pec Deck Fly, 3 sets of 10",
+            "workout7": "Dumbbell Shrugs, 3 sets of 10",
+            "workout8": "Standing Calf Raises, 3 sets of 15",
+            "workout9": "Seated Calf Raises, 3 sets of 15"
+        }
+    ],
+    "strengthWorkoutPlan": [
+        {
+            "day": "Day1",
+            "workoutType": "Leg/Squat Strength Focus",
+            "workout1": "Warmup/Mobility, 10 minutes",
+            "workout2": "Squats, 5 sets of 5",
+            "workout3": "Romainian Deadlift, 3 sets of 5",
+            "workout4": "Leg Press, 3 sets of 6",
+            "workout5": "Walking Lunges, 3 sets of 8",
+            "workout6": "Leg extensions, 3 sets of 6",
+            "workout7": "Leg curls, 3 sets of 6",
+            "workout8": "Calf raises, 3 sets of 6"
+        },
+        {
+            "day": "Day2",
+            "workoutType": "Push/Bench Strength Focus",
+            "workout1": "Warmup/Mobility, 10 minutes",
+            "workout2": "Deadlift, 5 sets of 5",
+            "workout3": "Barbell Bent Over Row, 3 sets of 5",
+            "workout4": "Lat Pull Down, 3 sets of 6",
+            "workout5": "Straight Arm Pulldown, 3 sets of 6",
+            "workout6": "Barbell Curl, 3 sets of 6",
+            "workout7": "Alternating Incline Dumbbell Bicep Curl, 3 sets of 8",
+            "workout8": "EZ-bar Preacher Curl, 3 sets of 6",
+            "workout9": "Hanging Leg Raise, Up to Failure",
+            "workout10": "Kneeling-Cable Crunch, 3 sets of 8"
+        },
+        {
+            "day": "Day3",
+            "workoutType": "Pull/Deadlift Strength Focus",
+            "workout1": "Warmup/Mobility, 10 minutes",
+            "workout2": "Deadlift, 5 sets of 5",
+            "workout3": "Close-Grip Bench Press, 3 sets of 5",
+            "workout4": "Barbell Shoulder Press, 3 sets of 6",
+            "workout5": "Barbell Shrug, 3 sets of 8",
+            "workout6": "Incline Dumbbell Bench Press, 4 sets of 5",
+            "workout7": "Dumbbell Chest Fly, 3 sets of 6",
+            "workout8": "Dumbbell Lateral Raise, 3 sets of 6",
+            "workout9": "Face Pull, 3 sets of 6",
+            "workout10": "Tricep Extensions, 3 sets of 6"
+        }
+    ],
+    "functionalWorkoutPlan": [
+        {
+            "day": "Day1",
+            "workoutType": "Timed, 3 rounds",
+            "workout1": "Warmup/Mobility, 10 minutes",
+            "workout2": "Run, 400 meters",
+            "workout3": "Walking Lunges, 40 reps",
+            "workout4": "Push Ups, 30 reps",
+            "workout5": "Burpees, 30 reps",
+            "workout6": "Box Jumps, 10 reps"
+        },
+        {
+            "day": "Day2",
+            "workoutType": "AMRAP, As Many Rounds As Possible in 10 minutes",
+            "workout1": "Warmup/Mobility, 10 minutes",
+            "workout2": "Box Jumps, 15 reps",
+            "workout3": "Pull Ups, 25 reps",
+            "workout4": "Wall Balls, 35 reps",
+            "workout5": "Double Unders, 45 reps"
+        },
+        {
+            "day": "Day3",
+            "workoutType": "EMOM, Every Minute On the Minute for 10 minutes",
+            "workout1": "Warmup/Mobility, 10 minutes",
+            "workout2": "Row, 600 meters",
+            "workout3": "Air Bike Calories, 30 reps",
+            "workout4": "Burpees, 30 reps",
+            "workout5": "Double Unders, 100 reps"
+        }
+    ]
+}
